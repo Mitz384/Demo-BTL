@@ -2,10 +2,10 @@
   background-color: #212121 !important;
 }
 .text-primary{
-  color: #212121;
+  color: #212121 !important;
 }
 .border-primary{
-  border-color: #212121;
+  border-color: #212121 !important;
 }
 body{
   font-family: "Poppins", sans-serif;

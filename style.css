@@ -4,8 +4,8 @@
 .text-primary{
   color: #212121 !important;
 }
-.border-primary{
-  border-color: #212121 !important;
+.more{
+  border: 1px solid #212121;
 }
 body{
   font-family: "Poppins", sans-serif;

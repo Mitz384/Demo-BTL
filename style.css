@@ -4,6 +4,9 @@
 .text-primary{
   color: #212121;
 }
+.border-primary{
+  border-color: #212121;
+}
 body{
   font-family: "Poppins", sans-serif;
 }
